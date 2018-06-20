@@ -1,0 +1,12 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is BE5E-0AE7
+
+ Directory of C:\Users\d9fbom\Desktop\Git_project_2
+
+06/20/2018  08:59 AM    <DIR>          .
+06/20/2018  08:59 AM    <DIR>          ..
+06/20/2018  08:45 AM               416 Hello.class
+06/14/2018  09:33 AM               173 Hello.java
+06/20/2018  08:59 AM                 0 new.txt
+               3 File(s)            589 bytes
+               2 Dir(s)  95,434,670,080 bytes free
